@@ -1,4 +1,4 @@
-# 🎵 Music Streaming Database System  
+#  Music Streaming Database System  
 
 ##  Overview  
 This project is a **Music Store Database System** that models the backend of a platform similar to Spotify.  
