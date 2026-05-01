@@ -38,12 +38,14 @@ It focuses on:
 
 - Built using **SQLite**  
 - Includes:  
-  - `schema.sql` → Database structure  
-  - `seed.sql` → Sample data  
+  - `schema.sql`  Database structure  
+  - `seed.sql` Sample daa
+  - `indexex.sql` Indexes
+  - `queries.sql` High Frequency queries  
 
 - Ensures:  
   - **Referential integrity** using foreign keys  
-  - **Data validation** using constraints (`CHECK`, `NOT NULL`, `UNIQUE`)  
+  - **Data validation** using constraints
 
 ---
 
